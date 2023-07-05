@@ -22,13 +22,13 @@ _____________________
 
 ![alt text](https://financialit.net/sites/default/files/picsart_04-13-06.18.28_0.jpg)
 
-Envestnet Yodlee is the provider of financial data aggregation and analytics solutions. Their platform and API suite enable secure access to vast amounts of financial data. With data aggregated from various sources, users gain a comprehensive view of their finances, allowing for informed decision-making. Yodlee prioritizes security and compliance with regulatory standards. Trusted by multiple institutions and fintech companies, they drive financial innovation and empower individuals and businesses in the digital era.
+Yodlee Redi2 is a provider of financial data aggregation and analytics solutions. Their platform and API suite enable secure access to vast amounts of financial data. With data aggregated from various sources, users gain a comprehensive view of their finances, allowing for informed decision-making. Redi2 prioritizes security and compliance with regulatory standards. Trusted by multiple institutions and fintech companies, they drive financial innovation and empower individuals and businesses in the digital era.
 	
 
 ### Current IT Set Up
 ______________________
 
-Envestnet Yodlee operates with on-premises infrastructure and has a team of 100 employees. They utilize PHP, HTML, and Java programming languages to develop their software applications. Yodlee use the private cloud to manage the application load. Which includes networking(routers, Switch) and workload application servers. 
+Redi2 operates with on-premises infrastructure and has a team of 50 employees. They utilize PHP, HTML, and Java programming languages to develop their software applications. Redi2 uses the private cloud to manage the application load. Which includes networking(routers, Switch) and workload application servers. 
 
 ## Contrast of Cloud and Non-Cloud Solutions
 --------------------------------------------
