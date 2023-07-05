@@ -3,7 +3,7 @@ Envestnet Yodlee IT proposal
 
 ### COMPANY: YODLEE REDI2
 
-![alt text](https://ibsintelligence.com/wp-content/uploads/2021/12/1583702611471.jpeg)
+![alt text](https://mma.prnewswire.com/media/1746801/Redi2_Logo.jpg?w=200)
 
 ### **INTRODUCTION**
 ________________
