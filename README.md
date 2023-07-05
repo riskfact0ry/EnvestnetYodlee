@@ -1,7 +1,7 @@
 Envestnet Yodlee IT proposal 
 # CLOUD-CA01-ASSIGNMENT 
 
-### COMPANY: ENVESTNET YODLEE
+### COMPANY: YODLEE REDI2
 
 ![alt text](https://ibsintelligence.com/wp-content/uploads/2021/12/1583702611471.jpeg)
 
