@@ -22,13 +22,13 @@ _____________________
 
 ![alt text](https://financialit.net/sites/default/files/picsart_04-13-06.18.28_0.jpg)
 
-Envestnet Yodlee is provider of financial data aggregation and analytics solutions. Their platform and API suite enable secure access to vast amounts of financial data. With data aggregated from various sources, users gain a comprehensive view of their finances, allowing for informed decision-making. Yodlee prioritizes security and compliance with regulatory standards. Trusted by multiple institutions and fintech companies, they drive financial innovation and empower individuals and businesses in the digital era.
+Envestnet Yodlee is the provider of financial data aggregation and analytics solutions. Their platform and API suite enable secure access to vast amounts of financial data. With data aggregated from various sources, users gain a comprehensive view of their finances, allowing for informed decision-making. Yodlee prioritizes security and compliance with regulatory standards. Trusted by multiple institutions and fintech companies, they drive financial innovation and empower individuals and businesses in the digital era.
 	
 
 ### Current IT Set Up
 ______________________
 
-Envestnet Yodlee operates with an on-premises infrastructure and has a team of 100 employees. They utilize PHP, HTML, and Java programming languages to develop their software applications. They user private cloud to manage the application load. Which includes networking(routers, Switch) and workload application servers. 
+Envestnet Yodlee operates with on-premises infrastructure and has a team of 100 employees. They utilize PHP, HTML, and Java programming languages to develop their software applications. Yodlee use the private cloud to manage the application load. Which includes networking(routers, Switch) and workload application servers. 
 
 ## Contrast of Cloud and Non-Cloud Solutions
 --------------------------------------------
@@ -49,17 +49,17 @@ _________
 ### Non-Cloud 
 _____________
 
-- Control: Organizations have full control over their hardware, software,security and data, allowing for customized configurations and tailored solutions.
+- Control: Organizations have full control over their hardware, software, security, and data allowing for customized configurations and tailored solutions.
 - Compliance: For industries with strict regulatory requirements, an on-premises setup provides greater control over data governance and compliance.
 - Customization: Organizations have the flexibility to customize their infrastructure, applications, and services to meet specific business requirements.
-- Cost Predictability: Could predict the cost for running the environment. 
+- Cost Predictability: Could predict the cost of running the environment. 
 - Legacy Systems: On-premises setups can support legacy applications and systems that may not be easily migrated to the cloud.
-- Long-Term Investment: Large investment required for upfront and maintanance 
+- Long-Term Investment: Large investment required for upfront and maintenance 
 ## Cloud Storage VS On-Premises Storage 
 __________________________________________
 When deciding where to store their data, businesses face a critical choice between on-premises and cloud storage. Understanding the key distinctions between these options is essential as they consider the advantages and disadvantages associated with each.
 
-## Advantages of On Premises Storage 
+## Advantages of On-Premises Storage 
 -------------------------------------
 - Data Privacy: With on-premises storage, organizations have complete ownership and control over their data, reducing concerns about data privacy and unauthorized access.
 - Predictable Costs: Unlike cloud storage, on-premises storage involves upfront costs but can provide predictable long-term expenses without recurring subscription fees.
@@ -77,3 +77,11 @@ ___________________________________________________________
  ___________________________________________________________
 
 Cloud computing has become an essential tool not only in the business world but also in our daily lives. For small and medium-sized enterprises (SMEs), Microsoft Azure offers a reliable and secure cloud computing solution, particularly for data storage and project access. Azure, a leading cloud computing platform, provides on-demand services, enabling SMEs to easily store and access their data. With Azure, SMEs can take advantage of Microsoft's robust infrastructure to store and manage their data securely, ensuring scalability, flexibility, and cost-effectiveness. Azure empowers SMEs to leverage the benefits of cloud computing, enhancing their operational efficiency and competitiveness in today's digital landscape.
+
+## Proposed Cloud Architecture
+________________________________
+
+
+
+## Justification for Azure Cloud
+__________________________________
