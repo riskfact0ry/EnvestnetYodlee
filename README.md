@@ -28,7 +28,7 @@ Yodlee Redi2 is a provider of financial data aggregation and analytics solutions
 ### Current IT Set Up
 ______________________
 
-Redi2 operates with on-premises infrastructure and has a team of 50 employees. They utilize PHP, HTML, and Java programming languages to develop their software applications. Redi2 uses the private cloud to manage the application load. Which includes networking(routers, Switch) and workload application servers. 
+Redi2 operates with on-premises infrastructure with a partial cloud environment and has a team of 50 employees. They utilize PHP, HTML, and Java programming languages to develop their software applications. Redi2 uses the private cloud to manage the application load. Which includes networking(routers, Switch) and workload application servers along with the support of azure cloud as hybrid.
 
 ## Contrast of Cloud and Non-Cloud Solutions
 --------------------------------------------
