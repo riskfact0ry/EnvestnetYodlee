@@ -53,7 +53,7 @@ function TodoListCard() {
         <React.Fragment>
             <AddItemForm onNewItem={onNewItem} />
             {items.length === 0 && (
-                <p className="text-center">OOPS !!! This website is under maintenance, Please visit again after sometime</p>
+                <p className="text-center">Add your expenses</p>
             )}
             {items.map(item => (
                 <ItemDisplay
@@ -172,98 +172,8 @@ function ItemDisplay({ item, onItemUpdate, onItemRemoval }) {
                     </Button>
                 </Col>
             </Row>
+        </Container>
+    );
+}
 
-// function AddItemForm({ onNewItem }) {
-//   const { Form, InputGroup, Button } = ReactBootstrap;
-
-//   const [newItem, setNewItem] = React.useState('');
-//   const [id, setId] = React.useState('');
-//   const [expiryDate, setExpiryDate] = React.useState('');
-//   const [code, setCode] = React.useState('');
-//   const [price, setPrice] = React.useState('');
-//   const [submitting, setSubmitting] = React.useState(false);
-
-//   const submitNewItem = (e) => {
-//     e.preventDefault();
-//     setSubmitting(true);
-//     fetch('/items', {
-//       method: 'POST',
-//       body: JSON.stringify({
-//         name: newItem,
-//         id: id,
-//         expiryDate: expiryDate,
-//         code: code,
-//         price: price,
-//       }),
-//       headers: { 'Content-Type': 'application/json' },
-//     })
-//       .then((r) => r.json())
-//       .then((item) => {
-//         onNewItem(item);
-//         setSubmitting(false);
-//         setNewItem('');
-//         setId('');
-//         setExpiryDate('');
-//         setCode('');
-//         setPrice('');
-//       });
-//   };
-
-//   return (
-//     <Form onSubmit={submitNewItem}>
-//       <InputGroup className="mb-3">
-//         <Form.Control
-//           value={newItem}
-//           onChange={(e) => setNewItem(e.target.value)}
-//           type="text"
-//           placeholder="Item Name"
-//           aria-describedby="basic-addon1"
-//         />
-//         <Form.Control
-//           value={id}
-//           onChange={(e) => setId(e.target.value)}
-//           type="text"
-//           placeholder="ID"
-//           aria-describedby="basic-addon1"
-//         />
-//         <Form.Control
-//           value={expiryDate}
-//           onChange={(e) => setExpiryDate(e.target.value)}
-//           type="text"
-//           placeholder="Expiry Date"
-//           aria-describedby="basic-addon1"
-//         />
-//         <Form.Control
-//           value={code}
-//           onChange={(e) => setCode(e.target.value)}
-//           type="text"
-//           placeholder="Code"
-//           aria-describedby="basic-addon1"
-//         />
-//         <Form.Control
-//           value={price}
-//           onChange={(e) => setPrice(e.target.value)}
-//           type="text"
-//           placeholder="Price"
-//           aria-describedby="basic-addon1"
-//         />
-//         <InputGroup.Append>
-//           <Button
-//             type="submit"
-//             variant="success"
-//             disabled={!newItem.length || !id.length || !expiryDate.length || !code.length || !price.length}
-//             className={submitting ? 'disabled' : ''}
-//           >
-//             {submitting ? 'Adding...' : 'Add Item'}
-//           </Button>
-//         </InputGroup.Append>
-//       </InputGroup>
-//     </Form>
-//   );
-// }
-
-//         </Container>
-//     );
-// }
-
-// ReactDOM.render(<App />, document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
