@@ -20,8 +20,6 @@ _____________________
 
 ## **Background Of The Enterprise**
 
-![alt text](https://financialit.net/sites/default/files/picsart_04-13-06.18.28_0.jpg)
-
 Yodlee Redi2 is a provider of financial data aggregation and analytics solutions. Their platform and API suite enable secure access to vast amounts of financial data. With data aggregated from various sources, users gain a comprehensive view of their finances, allowing for informed decision-making. Redi2 prioritizes security and compliance with regulatory standards. Trusted by multiple institutions and fintech companies, they drive financial innovation and empower individuals and businesses in the digital era.
 	
 
