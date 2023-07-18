@@ -1,7 +1,7 @@
-Envestnet Yodlee IT proposal 
-# CLOUD-CA01-ASSIGNMENT 
+REDI2 Cloud proposal 
+# CA01-Cloud Computing Assignment 
 
-### COMPANY: YODLEE REDI2
+### COMPANY: REDI2
 
 ![alt text](https://mma.prnewswire.com/media/1746801/Redi2_Logo.jpg?w=200)
 
