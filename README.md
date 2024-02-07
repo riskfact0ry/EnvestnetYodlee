@@ -1,5 +1,5 @@
 REDI2 Cloud proposal 
-# CA01-Cloud Computing Assignment 
+# CA01-Cloud Computing
 
 ### COMPANY: REDI2
 
